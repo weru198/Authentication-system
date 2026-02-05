@@ -90,7 +90,7 @@ Assumptions & Decisions
 3.Minimal UI — focuses on functionality and security
 4.Files kept simple for clarity and interview demonstration
 
-Future Improvements
+##Future improvements
 1.Add role-based access control (admin, user)
 2.Implement CSRF protection on forms
 3.Add password reset and email verification
