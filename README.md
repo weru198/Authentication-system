@@ -23,7 +23,6 @@ It demonstrates full-stack skills including backend logic, frontend forms, sessi
 ---
 
 ## Folder Structure
-
 simple-auth-dashboard/
 ├── public/
 │ ├── index.php
@@ -90,7 +89,7 @@ Assumptions & Decisions
 3.Minimal UI — focuses on functionality and security
 4.Files kept simple for clarity and interview demonstration
 
-##Future improvements
+Future Improvements
 1.Add role-based access control (admin, user)
 2.Implement CSRF protection on forms
 3.Add password reset and email verification
